@@ -1,92 +1,173 @@
 # Hi, I'm Vedika Pathak 👋
 
-Data Analytics enthusiast with hands-on experience in SQL, Python, Power BI, Excel, and Salesforce CRM. Interested in Business Intelligence, dashboard development, and solving real-world business problems using data.
+### B.Tech Artificial Intelligence & Data Science | Python | SQL | AI/GenAI
+
+I'm a B.Tech Artificial Intelligence & Data Science student at Poornima University, Jaipur, interested in **software development, AI/GenAI, data processing, and backend technologies**.
+
+I enjoy building practical applications using Python and exploring technologies such as **RAG, LLMs, REST APIs, FastAPI, Streamlit, and databases**.
 
 📍 Jaipur, Rajasthan  
-🔗 LinkedIn: linkedin.com/in/vedika-pathak-dataanalytics  
-🔗 GitHub: github.com/Vedika-commits21  
+🎓 B.Tech – Artificial Intelligence & Data Science | Poornima University  
+🔗 LinkedIn: [linkedin.com/in/vedikapathakbtech](https://linkedin.com/in/vedikapathakbtech/)  
+🔗 GitHub: [Vedika-commits21](https://github.com/Vedika-commits21)
 
 ---
 
-## Technical Skills
+# 🛠️ Technical Skills
 
-- SQL
+### Programming
 - Python
-- Power BI
-- Microsoft Excel
-- Salesforce CRM
-- Data Visualization
-- KPI Reporting
-- Business Analytics
+- SQL
 
-### Python Libraries
+### Core Concepts
+- Object-Oriented Programming
+- Data Structures & Algorithms — Basics
+- Problem Solving
+
+### Data & Libraries
 - Pandas
 - NumPy
 - Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis
 
-### SQL Skills
-- Joins
-- Aggregations
-- Subqueries
-- Window Functions
+### Backend & Database
+- FastAPI
+- REST API Basics
+- SQLite
+- PostgreSQL
 
-### Excel Skills
-- Pivot Tables
-- VLOOKUP
-- Conditional Formatting
-- Charts
+### AI / GenAI
+- Retrieval-Augmented Generation (RAG)
+- LLM Concepts
+- Embeddings
+- Semantic Search
 
----
-
-# Projects
-
-## Customer Churn Prediction & Revenue Risk Analytics
-**Tools:** Excel, SQL, Power BI, Python
-
-- Analyzed customer churn trends and revenue risk patterns using transaction and behavioral data.
-- Built interactive Power BI dashboards for churn KPIs and customer retention analysis.
-- Used SQL for data extraction, cleaning, and business insights.
-- Performed exploratory data analysis using Python libraries like Pandas and Matplotlib.
+### Tools
+- Git
+- GitHub
+- Streamlit
+- Jupyter Notebook
+- VS Code
 
 ---
 
-## E-Commerce Customer Segmentation Analysis
-**Tools:** Python, SQL, Power BI
+# 🚀 Featured Projects
 
-- Performed customer segmentation using machine learning techniques.
-- Applied K-Means clustering to identify high-value customer groups.
-- Built Power BI dashboards to visualize revenue contribution and engagement trends.
-- Generated business insights for targeted marketing strategies.
+## 🤖 AI Document Intelligence & RAG Assistant
 
----
+**Python · RAG · Embeddings · FAISS · PyMuPDF · Streamlit**
 
-## Sales Performance & Profit Analysis
-**Tools:** SQL, Power BI, Excel
+An AI-powered document question-answering application that generates responses based on information available in uploaded documents.
 
-- Analyzed sales trends, regional performance, and profit margins.
-- Created KPI dashboards for revenue growth and product performance tracking.
-- Generated insights for sales optimization and business decision-making.
+### Key Features
 
----
+- 📄 PDF text extraction
+- ✂️ Document chunking
+- 🧠 Semantic embeddings
+- 🔎 Semantic retrieval
+- 🤖 LLM-based response generation
+- 🖥️ Interactive Streamlit interface
 
-# Certifications
+### Pipeline
 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- NPTEL – Enhancing Soft Skills and Personality (2025)
-- NPTEL – Machine Learning (2024)
+```text
+Document
+   ↓
+Text Extraction
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+Vector Search
+   ↓
+Relevant Context
+   ↓
+LLM
+   ↓
+Context-Grounded Answer
 
----
+💼 Intelligent Job Application Tracker & Job Description Analyzer
 
-# Currently Exploring
+Python · FastAPI · SQL · SQLite · Streamlit · Pandas
 
-- Advanced SQL
-- Power BI Dashboarding
-- Data Analytics Projects
-- Business Intelligence
+A placement-focused application for managing job opportunities, tracking application stages, monitoring deadlines and interviews, and analyzing job descriptions.
 
+Key Features
+💼 Job management
+📊 Application pipeline tracking
+📅 Deadline tracking
+🎯 Interview tracking
+🔌 REST API endpoints
+🗃️ Database-based storage
+🧠 Job-description skill extraction
+📈 Dashboard-based application insights
+
+Application Pipeline
+Job Found
+    ↓
+Saved
+    ↓
+Applied
+    ↓
+Online Assessment
+    ↓
+Technical Interview
+    ↓
+HR Interview
+    ↓
+Selected / Rejected
+
+📜 Certifications
+Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+NPTEL – Machine Learning, 2024
+NPTEL – Enhancing Soft Skills and Personality, 2025
+🌱 Currently Exploring
+Advanced Python
+SQL & Database Development
+Data Structures & Algorithms
+REST API Development
+FastAPI
+AI/GenAI Applications
+RAG Systems
+LLM Integration
+Software Development
+🎯 Career Interests
+AI / GenAI Engineering
+        │
+        ├── RAG Applications
+        ├── LLM-based Systems
+        └── AI-powered Solutions
+
+Software Development
+        │
+        ├── Python
+        ├── Backend Development
+        └── REST APIs
+
+Data & Analytics
+        │
+        ├── SQL
+        ├── Data Processing
+        └── Business Analytics
+📊 GitHub Activity
+
+I'm continuously building projects, improving my technical skills, and exploring practical applications of AI and software development.
+
+👩‍💻 Vedika Pathak
+
+B.Tech Artificial Intelligence & Data Science
+
+📍 Jaipur, Rajasthan
+
+🔗 LinkedIn
+🔗 GitHub
+
+⭐ Building practical solutions with Python, AI, and technology.
 ---
 
 # Connect With Me
 
 📧 vedikapathak06@gmail.com  
-🔗 linkedin.com/in/vedika-pathak-dataanalytics
+🔗linkedin.com/in/vedikapathakbtech/
